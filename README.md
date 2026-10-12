@@ -34,7 +34,7 @@ HTML5, CSS3, vanilla JavaScript, Bootstrap 5 (grid), Bootstrap Icons, Google Fon
 ![Mobile](screenshots/tsg-webdev-p02-hassan.vercel.app_390px_mobile_png.png)
 
 ## Lighthouse report (mobile)
-Performance: XX | Accessibility: XX | Best Practices: XX | SEO: XX
+Performance: 58 | Accessibility: 93 | Best Practices: 100 | SEO: 100
 ![Lighthouse](screenshots/lighthouse.png)
 
 ## Folder structure
