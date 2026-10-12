@@ -35,9 +35,6 @@ HTML5, CSS3, vanilla JavaScript, Bootstrap 5 (grid), Bootstrap Icons, Google Fon
 
 ## Lighthouse report (mobile)
 Performance: XX | Accessibility: XX | Best Practices: XX | SEO: XX
-
-![Lighthouse](screenshots/lighthouse.png)
-
 ![Lighthouse](screenshots/lighthouse.png)
 
 ## Folder structure
